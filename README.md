@@ -21,4 +21,4 @@ And I already have an idea to do the soft sprites part better, let's see if ther
 **Have fun!**  
 <sub>(April 2025)</sub>
 
-<img src="SuperAmok1.png" alt="Game" width="300" /> <img src="SuperAmok2.png" alt="Game" width="300" /> <img src="SuperAmok3.png" alt="Game" width="300" /> <img src="SuperAmok4.png" alt="Game" width="300" /> <img src="SuperAmokGate.png" alt="Gate" width="300" />
+<img src="SuperAmok1.png" alt="Game" width="300" /> <img src="SuperAmok2.png" alt="Game" width="300" /> <img src="SuperAmok4.png" alt="Game" width="300" /> <img src="SuperAmok5.png" alt="Game" width="300" /> <img src="SuperAmokGate.png" alt="Gate" width="300" />
